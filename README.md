@@ -1,4 +1,4 @@
 - This is a TCM questioning system based on knowledge graph and machine learning.
 - This opensource software is for you all to learn from and redevelop. As it was coded by the members of 「our group」 completely, any illegal use of this copy is strictly prohibited. 
-- Zhuohong Cun (aka. Takukou Sun) © All Rights Reserved
 - Github address: https://github.com/ZhuohCun/TCM-Questioning-System-Backend.git
+- Zhuohong Cun (aka. Takukou Sun) © All Rights Reserved
