@@ -2,4 +2,4 @@
 - This opensource software is for you all to learn from and redevelop. As it was coded by the members of 「our group」 completely, any illegal use of this copy is strictly prohibited. 
 - Github address: https://github.com/ZhuohCun/TCM-Questioning-System-Backend.git
 - 「株式会社　ティーシーエム」 does not exist.
-- Zhuohong Cun (aka. Takukou Sun) © All Rights Reserved
+- Zhuohong Cun (aka. Takuko Sun) © All Rights Reserved
